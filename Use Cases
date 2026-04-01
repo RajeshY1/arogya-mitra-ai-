@@ -1,0 +1,16 @@
+# Use Cases: Arogya Mitra AI
+
+## 1. High-Precision OCR & Language Translation
+**Scenario:** A patient in rural Tamil Nadu receives a handwritten prescription.
+**Problem:** The patient cannot read English or the doctor's handwriting.
+**Solution:** Arogya Mitra AI extracts the text and uses a specialized LLM prompt to explain: "Metformin - For Sugar/Diabetes" in Tamil.
+
+## 2. Drug-Drug Interaction (DDI) Safety Agent
+**Scenario:** A user is taking heart medication and is prescribed a new antibiotic.
+**Problem:** Some antibiotics react poorly with heart meds.
+**Solution:** The Agentic workflow cross-references the two prescriptions and provides a high-priority warning to "Consult your doctor before mixing these."
+
+## 3. Caregiver Support
+**Scenario:** An NRI son in the US wants to ensure his parents in Hyderabad are taking the right meds.
+**Problem:** Remote monitoring of health.
+**Solution:** The app generates a "Summary Card" in English and Telugu that can be shared via WhatsApp to the caregiver.
