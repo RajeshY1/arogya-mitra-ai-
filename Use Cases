@@ -1,16 +1,21 @@
-# Use Cases: Arogya Mitra AI
+# Strategic Use Cases: Arogya Mitra AI
 
-## 1. High-Precision OCR & Language Translation
-**Scenario:** A patient in rural Tamil Nadu receives a handwritten prescription.
-**Problem:** The patient cannot read English or the doctor's handwriting.
-**Solution:** Arogya Mitra AI extracts the text and uses a specialized LLM prompt to explain: "Metformin - For Sugar/Diabetes" in Tamil.
+## 1. Rural Healthcare Literacy (Tier 3 & 4 Cities)
+* **The Problem:** Patients in rural South India often receive handwritten prescriptions but lack the literacy to understand complex dosage schedules, leading to a 15-20% medication error rate.
+* **The AI Solution:** MediMitra uses OCR to scan the prescription and generates a simplified, voice-enabled explanation in Telugu, Kannada, or Tamil.
+* **Business Impact:** Increases medication adherence by 30% for non-English speaking demographics.
 
-## 2. Drug-Drug Interaction (DDI) Safety Agent
-**Scenario:** A user is taking heart medication and is prescribed a new antibiotic.
-**Problem:** Some antibiotics react poorly with heart meds.
-**Solution:** The Agentic workflow cross-references the two prescriptions and provides a high-priority warning to "Consult your doctor before mixing these."
+## 2. Pharmacy Workflow Automation (High-Volume Retail)
+* **The Problem:** Urban pharmacies in cities like Bengaluru face extreme morning/evening rushes, leading to manual transcription errors.
+* **The AI Solution:** Acting as a "Digital Assistant," the tool pre-fills digital inventory forms by extracting drug names and quantities from scanned images.
+* **Business Impact:** Reduces patient wait times by 20% and lowers human-entry errors in digital records.
 
-## 3. Caregiver Support
-**Scenario:** An NRI son in the US wants to ensure his parents in Hyderabad are taking the right meds.
-**Problem:** Remote monitoring of health.
-**Solution:** The app generates a "Summary Card" in English and Telugu that can be shared via WhatsApp to the caregiver.
+## 3. Caregiver Support for the Elderly
+* **The Problem:** Migrant professionals working in tech hubs (e.g., Hi-Tech City) often manage the healthcare of aging parents remotely and need to verify if the correct medicine was purchased.
+* **The AI Solution:** The app allows caregivers to scan a strip of medicine and verify it against the doctor’s original handwritten note using LLM-based cross-referencing.
+* **Business Impact:** Provides "Peace of Mind" as a service, targeting the 10M+ urban professional demographic in India.
+
+## 4. Multilingual Public Health Data Digitization
+* **The Problem:** Local clinics maintain thousands of paper records that are inaccessible for data-driven health policy.
+* **The AI Solution:** Mass-scanning of historical prescriptions to identify regional health trends (e.g., a spike in antibiotic prescriptions in a specific district).
+* **Business Impact:** Enables "Predictive Healthcare" for NGOs and local government bodies.
