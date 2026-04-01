@@ -10,6 +10,7 @@
 - **Agentic Verification:** Uses a secondary AI agent to verify OCR results against a verified drug database (e.g., 1mg/Netmeds APIs).
 
 ![WhatsApp Image 2026-03-10 at 9 42 08 AM](https://github.com/user-attachments/assets/e962f1c2-3986-401f-8b82-63bec1ae98b0)
+![WhatsApp Image 2026-03-31 at 5 50 26 PM (1)](https://github.com/user-attachments/assets/5a0173a4-a944-480a-9ffa-26a49d93df2e)
 
         
 ## 🧠 AI Tech Stack
