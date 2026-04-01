@@ -1,25 +1,17 @@
-# Arogya Mitra AI 
-**AI-Powered Multilingual Prescription Assistant**
-## 📌 Project Overview
-**Arogya Mitra AI** is a HealthTech solution designed to bridge the gap between complex medical prescriptions and patient understanding in South India. Using an **Agentic Workflow** developed in **Google Antigravity**, the app converts handwritten/printed doctor prescriptions into easy-to-understand explanations in **Telugu, Tamil, Kannada, and Malayalam.**
+# medimitra
 
-### 🚀 Key Features
-- **OCR Vision Engine:** High-accuracy extraction of medicine names and dosages from handwritten notes.
-- **Multilingual LLM Explanation:** Explains *why* a medicine is prescribed (e.g., "For Fever" instead of "Antipyretic").
-- **Drug-Drug Interaction (DDI) Flags:** Real-time safety alerts for potential harmful combinations.
-- **Agentic Verification:** Uses a secondary AI agent to verify OCR results against a verified drug database (e.g., 1mg/Netmeds APIs).
+A new Flutter project.
 
-## 📸 Screenshots
-        
-## 🧠 AI Tech Stack
-- **IDE:** Google Antigravity (Agent-first development)
-- **Vision:** Google Cloud Vision / Gemini 3 Flash (for OCR)
-- **Reasoning:** Gemini 3.1 Pro via Vertex AI
-- **Framework:** Flutter (Mobile Frontend)
-- **Agentic Flow:** Developed using Antigravity’s "Agent Manager" for asynchronous verification tasks.
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
----
-Developed by **Rajesh** | AI Product Management 
-*Specializing in localized AI solutions for the South Indian Tech Market.*
+A few resources to get you started if this is your first Flutter project:
 
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
